@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=med-ouallou&label=Profile%20views&color=0e75b6&style=flat" alt="med-ouallou" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Med-Ouallou/](https://github.com/Med-Ouallou/)
-
 - 📫 How to reach me **med.ouallou786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
