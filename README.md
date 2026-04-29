@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Developer** from Morocco, focused on building clea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,24 +34,6 @@ I'm a passionate **Full-Stack Developer** from Morocco, focused on building clea
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=med-ouallou&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-ouallou&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=med-ouallou&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
